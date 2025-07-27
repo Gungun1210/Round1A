@@ -1,0 +1,47 @@
+{
+    "title": "japanese",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "第",
+            "page": 1,
+            "confidence": 0.98
+        },
+        {
+            "level": "H1",
+            "text": "1",
+            "page": 1,
+            "confidence": 1.01
+        },
+        {
+            "level": "H1",
+            "text": "章",
+            "page": 1,
+            "confidence": 0.98
+        },
+        {
+            "level": "H1",
+            "text": "babel",
+            "page": 1,
+            "confidence": 1.01
+        },
+        {
+            "level": "H1",
+            "text": "1.1",
+            "page": 1,
+            "confidence": 0.89
+        },
+        {
+            "level": "H1",
+            "text": "japanese",
+            "page": 1,
+            "confidence": 0.89
+        },
+        {
+            "level": "H2",
+            "text": "パッケージ",
+            "page": 1,
+            "confidence": 0.87
+        }
+    ]
+}
